@@ -1,0 +1,39 @@
+{% extends "layout.twig" %}
+{% block content %}
+
+<header class="bk-header">
+	<div class="contain">
+		<div class="brand">
+			{{widget('logo', 'logo', {"defaultlogo": asset('images/logo.png'),"showTplWidget":"0"})|raw}}
+			{{widget('companyname', 'companyname', {"business": "profile"})|raw}}
+		</div>
+		{{widget('extendednavigation', 'navigationheader', {"align":"left"})|raw}}
+		{{widget('profile', 'header-profile', { 'profileType':'address'})|raw}}
+		{{widget('responsiveslideshow', 'responsiveslideshow',
+		    {'duration':'5',
+		        'transSpeed': '1500',
+		        'transType': 'fade',
+		        'showButtons': true,
+		        'showBullets': false,
+		        'allowPause': false,
+		        'allowLoop': true,
+		        'showDescription': true,
+		        'showTitle': true,
+		        'crop': true,
+		        'images': [
+                    {'url':asset('/images/image-1.jpg')},
+                ]
+		    })|raw
+		}}
+	</div><!--end contain-->
+</header>
+
+<div role="main">
+	<div class="contain">
+		{{zone('main')|raw}}
+	</div><!--end contain-->
+</div><!--end main-->
+
+{% include 'includes/footer.twig' %}
+
+{% endblock %}
