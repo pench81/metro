@@ -59,9 +59,9 @@
         }
     },
     "fontSwatch": {
-       "title": "Merriweather",
+       "title": "Glegoo",
         "font1": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Josefin Sans\", \"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "38px",
             "font-weight": "700",
             "line-height": "64px",
@@ -69,7 +69,7 @@
             "letter-spacing": "inherit"
         },
         "font2": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Josefin Sans\", \"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "30px",
             "font-weight": "700",
             "line-height": "42px",
@@ -77,7 +77,7 @@
             "letter-spacing": "inherit"
         },
         "font3": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Josefin Sans\", \"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "16px",
             "font-weight": "700",
             "line-height": "30px",
@@ -85,7 +85,7 @@
             "letter-spacing": "inherit"
         },
         "font4": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Merriweather\", Georgia, serif",
             "font-size": "17px",
             "font-weight": "400",
             "line-height": "26px",
@@ -101,7 +101,7 @@
             "letter-spacing": "inherit"
         },
         "font6": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Josefin Sans\", \"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "16px",
             "font-weight": "400",
             "line-height": "24px",
@@ -112,7 +112,7 @@
             "background-color-hover": "transparent"
         },
         "font7": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Merriweather\", Georgia, serif",
             "font-size": "15px",
             "font-weight": "600",
             "line-height": "25px",
@@ -122,7 +122,7 @@
             "background-color-hover": "lighten(@color-swatch3,10%)"
         },
         "font8": {
-            "font-family": "\"Abril Fatface\", \"Palatino Linotype\", serif",
+            "font-family": "\"Josefin Sans\", \"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "60px",
             "font-weight": "400",
             "line-height": "72px",
@@ -130,7 +130,7 @@
             "letter-spacing": "inherit"
         },
         "font9": {
-            "font-family": "\"Droid Sans\", Helvetica, Arial, sans-serif",
+            "font-family": "\"Merriweather\", Georgia, serif",
             "font-size": "16px",
             "font-weight": "400",
             "line-height": "28px",
@@ -138,7 +138,7 @@
             "letter-spacing": "inherit"
         },
         "font10": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Josefin Sans\", \"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "28px",
             "font-weight": "700",
             "line-height": "36px",
