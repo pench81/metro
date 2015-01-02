@@ -1,7 +1,7 @@
 {
     "name":"Metro",
-    "thumbnail":"verbier.png",
-    "screenshot":"verbier.png",
+    "thumbnail":"metro.png",
+    "screenshot":"metro.png",
     "templateType":"standard",
     "pageTypes": ["home"],
     "images":[
